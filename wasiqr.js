@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃SHAMMELODY_V2 SESSION IS 
+┃SHARMENSEREM IS 
 ┃SUCCESSFULLY
 ┃CONNECTED 🦋😶‍🌫️
 ┗━━━━━━━━━━━━━━━
@@ -72,7 +72,7 @@ router.get('/', async (req, res) => {
 Please Follow My Support Channel
 Wanna talk to me?👉0704322434  👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Sharmenserem*
+©*2024-2099 never give up*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
